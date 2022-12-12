@@ -1,2 +1,2 @@
 Welcome-cheng-start
-[点这里！！！](./cheng-start/templates/index.html)
+[点这里！！！](./templates/index.html)
