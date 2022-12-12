@@ -1,2 +1,0 @@
-# cheng-start
-one start
